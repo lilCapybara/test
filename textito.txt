@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+asdasdasdasd
+=======
+capybara testing
+>>>>>>> 26ca8dfc0cf02544de841d4b382062168dd6e710
